@@ -1,0 +1,22 @@
+First Round
+
+1. What is an HTTP proxy and how does it work?
+2. What is RAID? What is RAID0, RAID1, RAID5, RAID10?
+3. What is an inode and what fields are stored in an inode?
+4. What is swap and what is it used for?
+5. What is SSH port forwarding?
+6. What is a wildcard certificate?
+7. What is the difference between a process and a thread?
+8. What is a tunnel and how you can bypass a http proxy?
+9. Why would ping localhost fail?
+10. What is SNAT and when should it be used?
+11. How to stop DDOS attack? HAProxy configuration for IP-based rate limiting.
+12. How to scale single-threaded applications?
+13. What is a VLAN?
+14. Do you consider seven to be a high load average?
+15. Ping vs Traceroute
+16. What are the benefits of subnetting?
+17. What is Two-Factor Authentication?
+18. What do you know about our service and industry?
+19. What do you not want to do?
+20. Tell me about the biggest mistake you've made in [some recent time period] and how you would do it differently today. What did you learn from this experience?
